@@ -1,3 +1,6 @@
+# YouTube Caption Processor
+
+A pipeline to fetch, clean, and compile automated English captions from YouTube videos into a single formatted Word document.
 
 here's the pipeline:
 
